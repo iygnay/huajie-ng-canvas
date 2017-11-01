@@ -23,7 +23,7 @@
         "strictMetadataEmit": true,
         "skipTemplateCodegen": true,
         "flatModuleOutFile": "canvas.js",
-        "flatModuleId": "@huajie-ng/common"
+        "flatModuleId": "@huajie-ng/canvas"
     },
     "files": [
         "./index.ts"
